@@ -76,13 +76,12 @@ width: 100%;
 
 .step-box {
   width: 90%;
-  margin: 20px;
+  margin:  0 auto; 
   
            }
 
 .step-box:last-child {
-  margin: 20px;
-                     }
+margin:  0 auto;                      }
 
 .step-img1 {
 
